@@ -1,0 +1,88 @@
+<html>
+    <body style="background-color:orange">
+    <head>
+        <tatle>РОЗПОВІДЬ ПРО СВОЮ ГРУ </tatle>
+    </head>
+<h1 style="text-align:center; color:darkgreen;background-color:palegreen;font-size:50px">RUST</h1>
+  <p style="text-align:center; color:blue;:lightblue;font-size:20px">це багатокористувацька відеогра в жанрі симулятор виживання, розроблена <b>Facepunch Studios</b>, яка створила <b>Garry's Mod</b>. Rust був уперше випущений у ранньому доступі в грудні 2013 року, а повний випуск отримав у лютому 2018 року. Rust доступний у<b> Windows і macOS</b> Консольні версії для PlayStation 4 і Xbox One, розроблені спільно з <b>Double Eleven</b>, були випущені в травні 2021 року. Спочатку Rust був створений як клон DayZ, популярного мода для <b>ARMA 2</b>, з елементами крафта, схожими на елементи <b>Minecraft</b>.</p>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvSNKtCOEMgMp4LI-N7200bO36xCHlsVMaw&s" height="300">
+ <p style="font-size:50px;background-color:lightgray; text-align:center">ВЗРИВ</p>
+ <table style="border:1px solid green;border-collapse:collapse;">
+   <tr style="border:3px solid green;background-color:Olive;">
+    <td style="background-color:red;">БАБОВКА</td>
+    <td style="background-color:green;">ЗАЖИГАТЕЛЬНА РАКЕТА</td>
+    <td style="background-color:orange;">СЕРА</td>
+    
+   </tr>
+   <tr style="border:3px solid green">
+    <td style="background-color:blue;">СОЧЕЛЬ</td>
+    <td style="background-color:pink;">БОЙОВА РАРЕТА</td>
+    <td style="background-color:brown;">ПОРОХ</td>
+  </tr>
+    <tr style="border:3px solid green">
+    <td style="background-color:yellow;">C4</td>
+    <td style="background-color:Olive;">СКОРОСНА РАКЕТА</td>
+    <td style="background-color:gray;">ІКСПА</td>
+    </tr>
+    </table>
+ <h1 style="text-align:center; color:darkblue;background-color:palegreen;font-size:50px">ВСЕ ОРУЖИЕ РАСТ</h1>
+    <p style="text-align:center; color:darkRED;:lightRED;font-size:20px">
+ Оружие является ключом к выживанию, поскольку оно обеспечивает возможность защиты и нападения. Игроки могут находить оружие в груза, сброшенных с самолёта, и боевых вертолётах, а также создавать его самостоятельно после получения необходимых ресурсов.</p>
+  <img src="https://rustgame.ru/upload/img/%D0%9A%D0%B0%D0%BA-%D0%B2%D1%8B%D0%B4%D0%B0%D1%82%D1%8C-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82-%D0%B2-Rust-2.png" height="250">
+   <h1 style="text-align:center; color:darkRED;background-color:palegreen;font-size:50px">ПЕСТОЛЕТИ</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtrxWO3g7RAQ2nZIhQkhegOUOFMZwnzu3oIF3dEaSHg&s" height="350">
+ <h1 style=":center; color:darkgreen;background-color:palegreen;font-size:30px">РЕВИК</h1> 
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1Qzi_FARUc1Yx0YOJO31aXPR7PDuta5yJtE1NKs8eA&s" height="350">
+  <h1 style=":center; color:darkgreen;background-color:palegreen;font-size:30px">ПЕШКА</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKVqkSb2dDsyjonGhsS-9zOnKlCvvwNvVhuaM_vZOVA&s" height="350">
+   <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">БЕРЕТА</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDfdkE7CqIho_mKLSJm_XVc3_fllmts-TbbA&s" height="350">
+   <h1 style="text-align:center; color:darkBLACK;background-color:palegreen;font-size:50px">АВТОМАТИ</h1>
+ <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">CМГ</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf6Qjotyjp-4Wv5nm3L6G4znpkraNOpGnc7Q&s" height="300">
+  <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">МП 5</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwvMI5LaZN5NmvRdEdDJnoLnK0WZuwi6VnKw&s" height="300">
+   <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">БЕРДАНКА</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhySVbGVawhHZWkfkqM_069Q3nxHCxz8hQtg&s" height="300">
+  <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">КАЛАШ</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNa1aahyGLZ6Wt7jYNz4e8eP8ZknYAQTINaw&s" height="300">
+   <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">M 39</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3aEAeUf9XJdrks1hdd2oePKIOqsimSUxmA&s" height="300">
+    <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">LR 300</h1>
+   <h1 style="text-align:center; color:darkblue;background-color:palegreen;font-size:50px">СНАЙПЕРКИ</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2REeiiBlRtXjW3zCndYZ-hOEisOI9bSedA&s" height="300">
+   <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">БОЛТОВКА</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4uWPnT6p7ccEzzJuVTwf2SQk4unJ8pxEQQ&s" height="300">
+   <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">ЕЛКА</h1>
+    <h1 style="text-align:center; color:darkblue;background-color:palegreen;font-size:50px">ДРОБОВІКИ</h1>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdAOJbki6KhUd9q7-2njj6swZhgeQLfFc54g&s" height="300">
+      <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">ПОМПОВИЙ ДРОБОВИК</h1>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaiSCLxn0tKUKNJUzEzDRXzCUoFC2TB2K_fw&s" height="300">
+     <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">ДВОХСТВОЛЬНИЙ ДРОБОВИК</h1>
+   <img src="https://w7.pngwing.com/pngs/750/503/png-transparent-rust-shotgun-slug-shotgun-shell-weapon-weapon-game-ammunition-weapon-thumbnail.png" height="300">
+      <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">ПАЙП</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzEOg6FBSyEMpaYsQUpScyWkGTJ8dRz2QoJQ&s" height="300">
+          <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">ЧИРКА</h1>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXE_IjIJ65hSqCs591qBMcWAtlnYccx3OI2Q&s" height="300">
+           <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">СПАС</h1>
+    <h1 style="text-align:center; color:darkblue;background-color:palegreen;font-size:50px">ПУЛЕМЬОТИ</h1>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6UGDmnttmCffv6qOm-FEISJ7b1hOu_H1_Q&s" height="300">
+              <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">САМОДЕЛЬНИЙ ПОЛЕМЬОТ</h1>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEd2k6UFXnE4pbf5KNCs3a60qUdE1yx16pNQ&s" height="300">
+                <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">M 249</h1>
+    <h1 style="text-align:center; color:darkblue;background-color:palegreen;font-size:50px">ПОСТРОЙКИ</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTra-xYCgnTD3Q3KcaHZUXMp-vWW6OpQ_EhBQ&s" height="500">
+  <p style="text-align:center; color:red;:lightRED;font-size:20px">Чаще всего используется для защиты стен дома от грабителей. Является эффективным средством обороны, так как мало кто захочет тратить свои Гранаты Ф1 или C4 на шипы, а также мало кто захочет уничтожать их в ближнем бою (отраженный урон).</p>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ8OXABXCPGcdzQ1k9UmnH43S-lfdpg4Nw7A&s" height="300"> 
+    <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">ДЕРЕВЯНАЯ СТЕНА</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzG4PpBZsBdWDvZc4ZszH1gvNp4x8H3Ar1hw&s" height="300">
+     <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">КАМЯНАЯ СТЕНА</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVT69yWBbgfoRHmzFF09DU2fKa3C3yC32qg&s" height="300">
+      <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">ЖЕЛЕЗНАЯ СТЕНА</h1>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmH4ZZysdb_nDzLDzwJlsyNRZOawz8zui06A&s" height="300">
+      <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">БАМБУКОВА СТЕНА</h1>
+         <h1 style=":center; color:darkgreen;background-color:palegreen;>font-size:30px">КРАСИВІ СКИНИ РАСТ</h1>
+   <img src="https://lh3.googleusercontent.com/proxy/zii8St4idlgiAvDx9wTnSQJUG0o7nmYUYffvAV9weiIQfF5eyF0T9udsHHVrv4bnlQZCfk7Pev1uAaGNaaTTfDu11Y-xwmXREaiKPMgMlnPvfG3Ely5d" height="300">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1758112893613947173/D3965BAC373611727A6408F1AF9648CB26173504/" height="300">
+ </body>
+</html>
